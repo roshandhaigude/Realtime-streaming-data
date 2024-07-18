@@ -1,0 +1,4 @@
+# Ignore Docker files
+*.docker
+Dockerfile
+docker-compose.*
